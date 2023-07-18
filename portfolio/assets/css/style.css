@@ -741,7 +741,7 @@ footer{
         transform: translateX(-5px);
     }
     .eduli:hover .twocon{
-        transform: translateX(20px) scale(1.0);
+        transform: translateX(10px) scale(1.0);
         opacity: 100%;
     }
     .eduli:hover .twocon1{
