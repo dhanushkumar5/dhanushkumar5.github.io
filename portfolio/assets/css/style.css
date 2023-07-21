@@ -60,6 +60,8 @@
     border-bottom: 0;
     transition: transform 0.3s ease-in-out;
     cursor:pointer;
+    text-decoration:none;
+    color:black;
     /* border: 1px solid red; */
 }   
 .con{
