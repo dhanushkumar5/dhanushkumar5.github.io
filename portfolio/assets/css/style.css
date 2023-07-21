@@ -62,7 +62,7 @@
     cursor:pointer;
     /* border: 1px solid red; */
 }   
-.res a{
+#res{
     text-decoration: none;
     color: black;
 }
