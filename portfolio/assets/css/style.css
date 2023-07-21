@@ -59,11 +59,13 @@
 .res{
     border-bottom: 0;
     transition: transform 0.3s ease-in-out;
+    cursor:pointer;
     /* border: 1px solid red; */
 }   
 .con{
     border-bottom: 0;
     transition: transform 0.3s ease-in-out;
+    cursor:pointer;
     /* border: 1px solid red; */
 }
 .res:hover{
